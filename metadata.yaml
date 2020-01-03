@@ -1,0 +1,4 @@
+documentation: https://t1.daumcdn.net/kakaoadplus/version5/editor/%EA%B4%91%EA%B3%A0%20%EA%B4%80%EB%A6%AC_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%BD%EC%85%80.pdf
+versions:
+  - sha: 8ccab5ba6803142c8f7d04aaebe0860a7de8a1e9
+    changeNotes: Initial release.
