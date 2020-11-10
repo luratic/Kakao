@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/kakao/"
 versions:
+  # Latest version
+  - sha: ed71256271fe739a7fb3818fa6d6e117d645df65
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: 8ccab5ba6803142c8f7d04aaebe0860a7de8a1e9
     changeNotes: Initial release.
