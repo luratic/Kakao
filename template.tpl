@@ -413,7 +413,12 @@ scenarios:
 
 ___NOTES___
 
-Developed by: Alfonso, Txema and Brais
+Developed with ❤ by: Alfonso, Txema and Brais.
+Web: www.luratic.com
+Linkedin: 
+https://www.linkedin.com/in/braiscalvo/
+https://www.linkedin.com/in/alfonsorc/
+https://www.linkedin.com/in/txema-s%C3%A1nchez-a48482ba/
 
 Kakao documentation:
 https://t1.daumcdn.net/kakaoadplus/version5/editor/%EA%B4%91%EA%B3%A0%20%EA%B4%80%EB%A6%AC_%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%94%BD%EC%85%80.pdf
